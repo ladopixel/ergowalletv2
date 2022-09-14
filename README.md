@@ -1,2 +1,2 @@
-# ergowalletv2
-Help me by testing the ErgoWallets.org website and give me feedback.
+# ErgoWallet.org
+Help me by testing version 2 of the ErgoWallets.org and give me feedback.
